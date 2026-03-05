@@ -1,0 +1,13 @@
+You can mount multiple working directories in VSCode by loading th    is workspace rather then opening a single folder.
+Note, that you need to adjust the paths.
+
+
+
+To run this code you can install 
+
+python=3.12.7
+pytest
+pyinstrument
+notebook
+numpy
+
